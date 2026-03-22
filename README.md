@@ -60,11 +60,11 @@ O projeto foi construído com foco em **simplicidade, agilidade no atendimento e
 ## 📸 Preview
 
 <!-- Substitua pelos seus links do GitHub -->
-![Relatórios](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/relatorios.png)
-![Checkout PIX](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/pix.png)
-![Catálogo](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/catalogo.png)
-![Estoque](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.png)
-![Materiais](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais.png)
+![Relatórios](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/relatorios.jpeg)
+![Checkout PIX](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/pix.jpeg)
+![Catálogo](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/catalogo.jpeg)
+![Estoque](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.jpeg)
+![Materiais](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais.jpeg)
 
 ---
 

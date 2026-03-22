@@ -59,13 +59,16 @@ O projeto foi construído com foco em **simplicidade, agilidade no atendimento e
 
 ## 📸 Preview
 
-<!-- Substitua pelos seus links do GitHub -->
-![Relatórios](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/relatorios.jpeg)
-![Checkout PIX](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/pix.jpeg)
-![Catálogo](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/catalogo.jpeg)
-![Estoque](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.jpeg)
-![Materiais](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/relatorios.jpeg" width="180"/>
+  <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/area_de_pix.jpeg" width="180"/>
+  <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/catalogo.jpeg" width="180"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.jpeg" width="180"/>
+  <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais_ingredients.jpeg" width="180"/>
+</p>
 ---
 
 ## 📦 Como rodar o projeto

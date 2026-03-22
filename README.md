@@ -65,6 +65,7 @@ O projeto foi construído com foco em **simplicidade, agilidade no atendimento e
   <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.jpeg" width="180"/>
   <img src="https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais_ingredients.jpeg" width="180"/>
 </p>
+
 ---
 
 ## 📦 Como rodar o projeto

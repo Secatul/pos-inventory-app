@@ -1,50 +1,78 @@
-# Welcome to your Expo app 👋
+# 🛍️ POS Inventory - Cecerutti Ateliê
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Aplicativo de ponto de venda (POS) e controle de estoque desenvolvido para gerenciamento completo de produtos, materiais e vendas.
 
-## Get started
+O projeto foi construído com foco em **simplicidade, agilidade no atendimento e controle eficiente do negócio**.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Funcionalidades
 
-2. Start the app
+- 🛒 Sistema de checkout com carrinho  
+- 💳 Pagamento via PIX com QR Code  
+- 📦 Controle de estoque de produtos  
+- 🧵 Gestão de materiais/ingredientes  
+- 📊 Relatórios de vendas e lucro  
+- 🔎 Busca rápida de produtos  
+- ➕ Adição e edição de itens em tempo real  
+- 📱 Interface mobile-first otimizada  
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧠 Estrutura do App
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🛍️ Catálogo
+- Lista de produtos disponíveis  
+- Busca rápida por nome  
+- Adição direta ao carrinho  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 📦 Estoque
+- Cadastro de novos produtos  
+- Controle de quantidade  
+- Atualização dinâmica de estoque  
 
-## Get a fresh project
+### 🛒 Checkout
+- Visualização do carrinho  
+- Pagamento via PIX  
+- Confirmação de compra  
 
-When you're ready, run:
+### 📊 Relatórios
+- Lucro total (caixa)  
+- Valor em estoque  
+- Histórico de transações  
+
+### 🧵 Materiais
+- Cadastro de ingredientes/materiais  
+- Controle de entrada e saída  
+- Gestão de custos  
+
+---
+
+## 🛠️ Tecnologias
+
+- ⚛️ React Native  
+- 📱 Expo  
+- 🟦 TypeScript  
+- 🎨 UI customizada (mobile-first)  
+
+---
+
+## 📸 Preview
+
+<!-- Substitua pelos seus links do GitHub -->
+![Relatórios](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/relatorios.png)
+![Checkout PIX](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/pix.png)
+![Catálogo](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/catalogo.png)
+![Estoque](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/estoque.png)
+![Materiais](https://raw.githubusercontent.com/secatul/pos-inventory-app/main/assets/materiais.png)
+
+---
+
+## 📦 Como rodar o projeto
 
 ```bash
-npm run reset-project
-```
+# Instale as dependências
+npm install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Inicie o projeto
+npx expo start
